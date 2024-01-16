@@ -6,18 +6,9 @@
 
    <remote name="Shirayuki39"
             fetch="https://github.com/Shirayuki39"
-            clone-depth="1" />
-    <remote name="sanek"
-            fetch="https://github.com/Sanek-creed"
-            clone-depth="1" />    
-    <remote  name="halibw"
-           fetch="https://github.com/halibw"/>  
-    <remote  name="halibwdev"
-           fetch="https://github.com/halibw-dev"/>                     
-    <remote  name="NopeNopeGuy"
-           fetch="https://github.com/NopeNopeGuy"/>                                  
+            clone-depth="1" />                                  
  <!--Tree -->
- <project path="device/xiaomi/oxygen" name="android_device_xiaomi_oxygen-3" remote="sounddrill31" revision="lineage-20.0_4.19" />
+ <project path="device/tecno/LG8n" name="android_device_tecno_LG8n_test" remote="Shirayuki39" revision="lineage-20" />
 
 
  <!--Kernel -->
