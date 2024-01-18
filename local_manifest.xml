@@ -7,14 +7,14 @@
             fetch="https://github.com/Shirayuki39"
             clone-depth="1" />                              
  <!--Tree -->
- <project path="device/tecno/LG8m" name="device_tecno_LG8n_test" remote="Shirayuki39" revision="lineage-20.0" />
+ <project path="device/tecno/LG8n" name="device_tecno_LG8n_test" remote="Shirayuki39" revision="lineage-20.0" />
 
 
  <!--Kernel -->
  <project path="device/tecno/LG8n-kernel" name="Transsion-MT6789-Resources/device_transsion_mt6789-common-kernel" remote="gh" revision="lineage-20.0" />
  
  <!--Vendor -->
- <project path="vendor/tecno/LG8n" name="Shirayuki39/vendor_tecno_LG8n" remote="gh" revision="lineage-20.0" />
+ <project path="vendor/tecno/LG8n" name="Shirayuki39/vendor_tecno_lg8n" remote="gh" revision="lineage-20.0" />
 <!--CleanUp Existing-->
   <!--<remove-project name="LineageOS/android_vendor_lineage"/>-->
 
