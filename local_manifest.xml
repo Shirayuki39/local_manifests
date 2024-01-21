@@ -11,7 +11,7 @@
 
 
  <!--Kernel -->
- <project path="device/tecno/LG8n-kernel" name="Transsion-MT6789-Resources/device_transsion_mt6789-common-kernel" remote="gh" revision="lineage-20" />
+ <project path="device/tecno/LG8n-kernel" name="Shirayuki39/device_tecno_lg8n_kernel" remote="gh" revision="lineage-20" />
  
  <!--Vendor -->
  <project path="vendor/tecno/LG8n" name="Shirayuki39/android_vendor_tecno_LG8n" remote="gh" revision="LG8n" />
