@@ -14,7 +14,7 @@
  <project path="device/tecno/LG8n-kernel" name="Shirayuki39/device_tecno_lg8n_kernel" remote="gh" revision="lineage-20" />
  
  <!--Vendor -->
- <project path="vendor/tecno/LG8n" name="sounddrill31/android_vendor_tecno_LG8n" remote="gh" revision="prebuilt" />
+ <project path="vendor/tecno/LG8n" name="sounddrill31/android_vendor_tecno_LG8n-prebuilt" remote="gh" revision="main" />
 <!--CleanUp Existing-->
   <!--<remove-project name="LineageOS/android_vendor_lineage"/>-->
 
