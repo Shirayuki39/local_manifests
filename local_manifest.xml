@@ -7,14 +7,14 @@
             fetch="https://github.com/Shirayuki39"
             clone-depth="1" />                              
  <!--Tree -->
- <project path="device/tecno/LG8n" name="device_tecno_LG8n_test" remote="Shirayuki39" revision="lineage-20.0" />
+ <project path="device/tecno/LG8n" name="device_tecno_LG8n_test" remote="Shirayuki39" revision="lineage" />
 
 
  <!--Kernel -->
  <project path="device/tecno/LG8n-kernel" name="Shirayuki39/device_tecno_lg8n_kernel" remote="gh" revision="lineage-20" />
  
  <!--Vendor -->
- <project path="vendor/tecno/LG8n" name="Shirayuki39/android_vendor_tecno_LG8n" remote="gh" revision="LG8n" />
+ <project path="vendor/tecno/LG8n" name="sounddrill31/android_vendor_tecno_LG8n" remote="gh" revision="prebuilt" />
 <!--CleanUp Existing-->
   <!--<remove-project name="LineageOS/android_vendor_lineage"/>-->
 
