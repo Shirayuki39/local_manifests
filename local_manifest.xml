@@ -7,7 +7,7 @@
             fetch="https://github.com/Shirayuki39"
             clone-depth="1" />                              
  <!--Tree -->
- <project path="device/tecno/LG8n" name="device_tecno_LG8n_test" remote="Shirayuki39" revision="lineage-20.0" />
+ <project path="device/tecno/LG8n" name="android_device_tecno_LG8n" remote="Shirayuki39" revision="lineage-20.0" />
 
 
  <!--Kernel -->
