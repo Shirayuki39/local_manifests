@@ -5,7 +5,10 @@
 
    <remote name="Shirayuki39"
             fetch="https://github.com/Shirayuki39"
-            clone-depth="1" />                              
+            clone-depth="1" />
+   <remote name="roms-experimental"
+            fetch="https://github.com/roms-experimental"
+            clone-depth="1" />
  <!--Tree -->
  <project path="device/tecno/LG8n" name="android_device_tecno_LG8n" remote="Shirayuki39" revision="lineage-20.0" />
 
@@ -15,6 +18,10 @@
  
  <!--Vendor -->
  <project path="vendor/tecno/LG8n" name="Shirayuki39/android_vendor_tecno_LG8n" remote="gh" revision="LG8n" />
+
+ <!--stuff -->
+ <project path="hardware/mediatek" name="android_hardware_mediatek" remote="roms-experimental" revision="lineage-20.0" />
+ <project path="hardware/transsion" name="hardware_transsion" remote="roms-experimental" revision="lineage-20.0" />
 <!--CleanUp Existing-->
   <!--<remove-project name="LineageOS/android_vendor_lineage"/>-->
 
