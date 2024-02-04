@@ -20,7 +20,7 @@
  <project path="vendor/tecno/LG8n" name="Shirayuki39/android_vendor_tecno_LG8n" remote="gh" revision="LG8n" />
 
  <!--stuff -->
- <project path="hardware/mediatek" name="android_hardware_mediatek" remote="roms-experimental" revision="lineage-20.0" />
+ <project path="hardware/mediatek" name="android_hardware_mediatek" remote="roms-experimental" revision="lineage-20" />
  <project path="hardware/transsion" name="hardware_transsion" remote="roms-experimental" revision="lineage-20.0" />
 <!--CleanUp Existing-->
   <!--<remove-project name="LineageOS/android_vendor_lineage"/>-->
